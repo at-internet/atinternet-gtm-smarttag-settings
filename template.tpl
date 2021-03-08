@@ -1,4 +1,4 @@
-﻿___TERMS_OF_SERVICE___
+___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
@@ -81,7 +81,7 @@ ___TEMPLATE_PARAMETERS___
       },
       {
         "type": "GROUP",
-        "name": "Advanced Settings",
+        "name": "AdvancedSettings",
         "displayName": "Advanced Settings",
         "groupStyle": "ZIPPY_OPEN_ON_PARAM",
         "subParams": [
@@ -98,7 +98,7 @@ ___TEMPLATE_PARAMETERS___
   },
   {
     "type": "GROUP",
-    "name": "More Settings",
+    "name": "MoreSettings",
     "displayName": "More Settings",
     "groupStyle": "ZIPPY_OPEN_ON_PARAM",
     "subParams": [
@@ -246,7 +246,7 @@ ___TEMPLATE_PARAMETERS___
       },
       {
         "type": "GROUP",
-        "name": "Identified Visitors",
+        "name": "IdentifiedVisitors",
         "displayName": "Identified Visitors",
         "groupStyle": "ZIPPY_OPEN_ON_PARAM",
         "subParams": [
@@ -268,7 +268,7 @@ ___TEMPLATE_PARAMETERS___
       },
       {
         "type": "GROUP",
-        "name": "Site Indicators",
+        "name": "SiteIndicators",
         "displayName": "Site custom variables",
         "groupStyle": "ZIPPY_OPEN_ON_PARAM",
         "subParams": [
@@ -377,7 +377,7 @@ ___TEMPLATE_PARAMETERS___
       },
       {
         "type": "GROUP",
-        "name": "Page Indicators",
+        "name": "PageIndicators",
         "displayName": "Page custom variables",
         "groupStyle": "ZIPPY_OPEN_ON_PARAM",
         "subParams": [
@@ -486,7 +486,7 @@ ___TEMPLATE_PARAMETERS___
       },
       {
         "type": "GROUP",
-        "name": "Internal Search",
+        "name": "InternalSearch",
         "displayName": "Internal Search",
         "groupStyle": "ZIPPY_OPEN_ON_PARAM",
         "subParams": [
@@ -515,7 +515,7 @@ ___TEMPLATE_PARAMETERS___
       },
       {
         "type": "GROUP",
-        "name": "MV Testing",
+        "name": "MVTesting",
         "displayName": "MV Testing",
         "groupStyle": "ZIPPY_OPEN_ON_PARAM",
         "subParams": [
@@ -551,7 +551,7 @@ ___TEMPLATE_PARAMETERS___
       },
       {
         "type": "GROUP",
-        "name": "Dynamic Labels",
+        "name": "DynamicLabels",
         "displayName": "Dynamic Labels",
         "groupStyle": "ZIPPY_OPEN_ON_PARAM",
         "subParams": [
@@ -594,7 +594,7 @@ ___TEMPLATE_PARAMETERS___
       },
       {
         "type": "GROUP",
-        "name": "Custom Tree Structure",
+        "name": "CustomTreeStructure",
         "displayName": "Custom Tree Structure",
         "groupStyle": "ZIPPY_OPEN_ON_PARAM",
         "subParams": [
@@ -755,5 +755,4 @@ scenarios: []
 ___NOTES___
 
 Created on 06/08/2020 à 11:31:12
-
 

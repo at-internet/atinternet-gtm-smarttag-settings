@@ -1,5 +1,7 @@
 homepage: "https://www.atinternet.com"
 documentation: "https://helpcentre.atinternet-solutions.com/hc/en-gb/articles/360016831799"
 versions:
+  - sha: 440e6acd16fff04c9fb107904ce0d0d1bbd4ac7c
+    changeNotes: Delete spaces from group names. Fix group opening bug.
   - sha: 432d52cf56a79bc8d317cbf40c1ccedf9ce9592c
     changeNotes: Initial release.
